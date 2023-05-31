@@ -10,6 +10,7 @@
 		<p>欢迎来到SouthernDeer的网站！！！！！！</p>
 		<a href="https://space.bilibili.com/49971143?spm_id_from=333.1007.0.0">暔楚的B站</a>
 		<h1>心情音乐</h1>
-		<p><a file="/HomePage.html">欢迎来到SouthernDeer的网站！！！！！！</a></p>
+		
+		<p><iframe src="HomePage.html">欢迎来到SouthernDeer的网站！！！！！！</iframe></p>
 	</body>
 </html>
